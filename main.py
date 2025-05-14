@@ -1,7 +1,7 @@
 # https://www.youtube.com/watch?v=DVRQoVRzMIY
 # Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth
 # -----------------------------------------------------
-
+# git remote add origin https://github.com/Kalle0102/test_repository.git
 """
 git commands:
 
