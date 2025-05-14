@@ -27,3 +27,7 @@ To push changes to a remote repository: git push ~remote name~ ~branch name~
 """
 
 "dies ist eine modifikation"
+
+"new branch: first modification"
+
+"new branch: second modification"
